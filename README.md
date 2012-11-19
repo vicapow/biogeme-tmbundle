@@ -8,3 +8,5 @@ Installation:
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles
     cd ~/Library/Application\ Support/TextMate/Bundles
     git clone git://github.com/vicapow/biogeme-tmbundle Biogeme.tmbundle
+
+Currently, the only supported feature is syntax highlighting.
